@@ -30,7 +30,7 @@ As you have now been in the process of delivering and building your product, we'
 - Describe how the requirements of the features you have been building/designing have changed.
 - What caused these requirements to change?
 - **Engineering Students:** What types of architectural requirements changed? Did you have to make any trade-offs or add any new packages/libraries or dependencies to your application's technical stack in order to meet the new changes? **Please be as specific as you can. Provide details via screenshots to Trello cards or your release canvases to support your response.**
-- **UX Student:** Describe any design patterns or user flows that had to change as a result of the requirements above. **Please be as specific as you can. Provide details via screenshots to design files or your release canvases to support your response.**
+- **UX Students:** Describe any design patterns or user flows that had to change as a result of the requirements above. **Please be as specific as you can. Provide details via screenshots to design files or your release canvases to support your response.**
 - **Data Scientists:** Tell us about how your work has evolved from the beginning stages of finding and cleaning the data with which your team is working all the way down to delivering that data model through your project's data pipeline. **Please be as specific as you can. Provide details via screenshots to Trello cards, Python/Jypyter Notebooks or your release canvases to support your response.**
 
 ## Submitting your work
