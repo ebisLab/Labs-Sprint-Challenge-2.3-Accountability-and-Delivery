@@ -35,7 +35,9 @@ We had to cut down alot of our code to improve our score to the D, and with the 
 - **Engineering Students:** What types of architectural requirements changed? Did you have to make any trade-offs or add any new packages/libraries or dependencies to your application's technical stack in order to meet the new changes? **Please be as specific as you can. Provide details via screenshots to Trello cards or your release canvases to support your response.**
 For both the frontend and backend we were struggling with testing since we were using Jest and react testing library. I know on my end when I was testing the components, useParams error kept creeping up mostly because of Graphql, so I've been spending about 2 days refactoring it to get it to be accepted. Then we Coldclimate criteria came in place, and it forced us to start refactoring most of our code to the point we found ourselves removing tiny features (not entirely mentioned on our release canvas, but features that would have enhanced our app overall) just to get the coldclimate score to improve. We almost had a meltdown that we had to cut down essential code in some other files, until Bernie and his team provided an update to the codeclimate criteria, which shot our score up from a D to an A 
 
+https://github.com/ebisLab/Labs-Sprint-Challenge-2.3-Accountability-and-Delivery/blob/master/Screen%20Shot%202020-04-24%20at%2011.46.59%20AM.png
 
+https://github.com/ebisLab/Labs-Sprint-Challenge-2.3-Accountability-and-Delivery/blob/master/Screen%20Shot%202020-04-24%20at%2011.46.59%20AM.png
 
 
 - **UX Students:** Describe any design patterns or user flows that had to change as a result of the requirements above. **Please be as specific as you can. Provide details via screenshots to design files or your release canvases to support your response.**
